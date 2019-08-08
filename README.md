@@ -9,3 +9,7 @@ Git tracks changes files.
 ### Git Clone
 this is new line    
 current user second commit
+this is new line
+
+### Other commit
+This is other push
